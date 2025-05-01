@@ -1,0 +1,22 @@
+have a square grid of 16 "pixels" by using a for loop
+
+    refer to div in html
+    let div = document.querySelector(div)
+
+    create element
+    document.createElement(div)
+
+    make a function that appends div element when called
+    
+
+
+using javascript where each square changes if you hover over them
+
+the color will change based on its current color (R>O>Y>G>B>I>V)
+
+there will be a button that will popup ask how many squares each side for a new square grid
+
+the square grid will be generated in the same space (x pixels wide) 
+
+the limit to the grid space will be 100
+
