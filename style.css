@@ -1,3 +1,18 @@
-p {
-    border: dotted 1px blue;
+#box {
+    height: 640px;
+    width: 640px;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px black;
 }
+
+#newRow {
+    flex: auto;
+    min-height: 5px;
+    display: flex;
+}
+
+#newDiv {
+    flex: auto;
+}
+
