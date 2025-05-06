@@ -14,5 +14,8 @@
 
 #newDiv {
     flex: auto;
+    background-color: black;
+    opacity: 0;
+    border: 1px solid black;
 }
 
